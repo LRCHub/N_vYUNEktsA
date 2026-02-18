@@ -1,4 +1,4 @@
-# TAK – 도깨비꽃 (DKBK)
+# TAK – 도깨비꽃 (DKBK)（feat. TENKO SHIBUKI）
 
 > **歌詞登録ステータス：同期歌詞あり**
 
