@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "도깨비꽃 (DKBK)（feat. TENKO SHIBUKI）",
+  "base_artist": "TAK",
+  "createdAt": "2026-02-18T13:48:06.439045Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "도깨비꽃 (DKBK) (Feat. TENKO SHIBUKI)",
+      "artist": "TAK",
+      "has_synced": true,
+      "path": "select/01_도깨비꽃_(DKBK)_(Feat._TENKO_SHIBUKI)_TAK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "도깨비꽃 (DKBK)",
+      "artist": "Tak",
+      "has_synced": false,
+      "path": "select/02_도깨비꽃_(DKBK)_Tak.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "도깨비꽃 (DKBK) (Feat. TENKO SHIBUKI)",
+      "artist": "TAK, TENKO SHIBUKI",
+      "has_synced": true,
+      "path": "select/03_도깨비꽃_(DKBK)_(Feat._TENKO_SHIBUKI)_TAK,_TENKO_SHIBUKI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "도깨비꽃 (DKBK) (Feat. TENKO SHIBUKI)",
+      "artist": "TAK, TENKO SHIBUKI",
+      "has_synced": false,
+      "path": "select/pl_01_도깨비꽃_(DKBK)_(Feat._TENKO_SHIBUKI)_TAK,_TENKO_SHIBUKI.txt"
+    }
+  ]
+}
